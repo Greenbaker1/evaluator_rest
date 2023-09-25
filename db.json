@@ -1,28 +1,19 @@
 {
-    "users": [
-        {
-            "id": "Train-00",
-            "scores": {
-                "consideration": 0,
-                "competence": 0,
-                "understandable": 0
-            }
-        },
-        {
-            "id": "Train-01",
-            "scores": {
-                "consideration": 0,
-                "competence": 0,
-                "understandable": 0
-            }
-        },
-        {
-            "id": "Train-02",
-            "scores": {
-                "consideration": 0,
-                "competence": 0,
-                "understandable": 0
-            }
-        }
-    ]
+    "Train-00": {
+        "consideration": 0,
+        "competence": 0,
+        "understandable": 0
+    },
+    "Train-01": {
+        "consideration": 0,
+        "competence": 0,
+        "understandable": 0
+    },
+
+    "Train-02": {
+        "consideration": 0,
+        "competence": 0,
+        "understandable": 0
+    }
+ 
 }
