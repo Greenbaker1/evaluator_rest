@@ -13,15 +13,5 @@
         "consideration": 0,
         "competence": 0,
         "understandable": 0
-    },
-    "buffer": [
-        {
-            "id": 1,
-            "name": "snoop Dogg"
-        },
-        {
-            "id": 2,
-            "name": "seth rogan"
-        }
-    ]
+    }
 }
