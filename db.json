@@ -2,18 +2,30 @@
   "users": [
     {
       "id": 1,
-      "name": "David",
-      "age": 30
+      "name": "Train-00",
+      "scores": {
+        "consideration" : 0,
+        "competence" : 0,
+        "understandable" : 0
+      }
     },
     {
-      "name": "John",
-      "id": 2,
-      "age": 40
+        "id": 2,
+      "name": "Train-01",
+      "scores": {
+        "consideration" : 0,
+        "competence" : 0,
+        "understandable" : 0
+      }
     },
     {
-      "name": "Alex",
-      "age": 20,
-      "id": 3
+        "id": 3,
+      "name": "Train-02",
+      "scores": {
+        "consideration" : 0,
+        "competence" : 0,
+        "understandable" : 0
+      }
     }
-  ]
+  ]  
 }
