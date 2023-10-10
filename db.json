@@ -1,155 +1,155 @@
 {
-  "Train-00": {
+  "NoR-00": {
+    "understandable": 4,
+    "competence": 2,
+    "consideration": 3
+  },
+  "NoR-01": {
     "understandable": 0,
     "competence": 0,
     "consideration": 0
   },
-  "Train-01": {
-    "understandable": 3,
-    "competence": 1,
-    "consideration": 2
-  },
-  "Train-02": {
-    "understandable": 2,
-    "competence": 4,
-    "consideration": 3
-  },
-  "Train-03": {
+  "NoR-02": {
     "understandable": 5,
-    "competence": 2,
-    "consideration": 4
+    "competence": 5,
+    "consideration": 5
   },
-  "Train-04": {
-    "understandable": 4,
-    "competence": 4,
-    "consideration": 4
+  "NoR-03": {
+    "understandable": 0,
+    "competence": 0,
+    "consideration": 0
   },
-  "Train-05": {
+  "NoR-04": {
+    "understandable": 0,
+    "competence": 0,
+    "consideration": 0
+  },
+  "NoR-05": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-06": {
-    "understandable": 1,
-    "competence": 1,
-    "consideration": 1
+  "NoR-06": {
+    "understandable": 0,
+    "competence": 0,
+    "consideration": 0
   },
-  "Train-07": {
+  "NoR-07": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-08": {
+  "NoR-08": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-09": {
+  "NoR-09": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-10": {
+  "NoR-10": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-11": {
+  "NoR-11": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-12": {
+  "NoR-12": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-13": {
+  "NoR-13": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-14": {
+  "NoR-14": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-15": {
+  "NoR-15": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-16": {
+  "NoR-16": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-17": {
+  "NoR-17": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-18": {
+  "NoR-18": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-19": {
+  "NoR-19": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-20": {
+  "NoR-20": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-21": {
+  "NoR-21": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-22": {
+  "NoR-22": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-23": {
+  "NoR-23": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-24": {
+  "NoR-24": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-25": {
+  "NoR-25": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-26": {
+  "NoR-26": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-27": {
+  "NoR-27": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-28": {
+  "NoR-28": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-29": {
+  "NoR-29": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0
   },
-  "Train-30": {
+  "NoR-30": {
     "consideration": 0,
     "competence": 0,
     "understandable": 0

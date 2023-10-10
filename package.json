@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --host 192.168.178.37 db.json"
+    "start": "json-server --host 192.168.77.30 db.json"
   },
   "keywords": [],
   "author": "",
